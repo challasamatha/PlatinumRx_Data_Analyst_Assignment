@@ -30,7 +30,7 @@ PlatinumRx_Data_Analyst_Assignment/
 │
 └── README.md
 
-🧱 Phase 1 – SQL Proficiency
+ Phase 1 – SQL Proficiency
 
 This assignment includes two database systems:
 
@@ -39,7 +39,7 @@ Hotel Management Database
 Clinic Management Database
 
 A. Hotel Management System
-✔ Step 1: Database Setup
+ Step 1: Database Setup
 
 Created SQL tables:
 
@@ -55,7 +55,7 @@ booking_items_mapping
 
 Inserted all sample values as provided.
 
-✔ Step 2: SQL Query Solutions
+Step 2: SQL Query Solutions
 
 Find last booked room for a given user
 → Used MAX(checkin_date) or sorted by date.
@@ -89,7 +89,7 @@ expenses
 
 Sample values inserted exactly as provided.
 
-✔ SQL Solutions
+SQL Solutions
 
 Revenue from each sales channel (Year-wise)
 → GROUP BY sales_channel
@@ -111,7 +111,7 @@ Second-least profitable clinic per state (per month)
 
 All final SQL stored in /SQL/04_Clinic_Queries.sql.
 
-📊 Phase 2 – Spreadsheet Proficiency
+Phase 2 – Spreadsheet Proficiency
 
 Sheets used:
 
@@ -153,6 +153,7 @@ Task 2: Time Analysis – Same Day & Same Hour
 
 
 Phase 3 – Python Proficiency
+
 Task 1: Convert Minutes → Hours/Minutes
 
 File: Python/01_Time_Converter.py
@@ -171,5 +172,9 @@ File: Python/02_Remove_Duplicates.py
 Logic:
 
 Loop through characters
-
 If not in result → add it
+
+Author 
+
+Name : Challa Samatha 
+Email : samathachowdary2004@gmail.com
