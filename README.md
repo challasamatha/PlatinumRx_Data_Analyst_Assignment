@@ -1,5 +1,4 @@
 PlatinumRx Data Analyst Assignment – README
-📌 Overview
 
 This project demonstrates proficiency in SQL, Spreadsheet Data Analysis, and Python programming.
 It covers real-world scenarios for Hotel Management, Clinic Management, and Customer Support Ticket Systems.
@@ -178,3 +177,4 @@ Author
 
 Name : Challa Samatha 
 Email : samathachowdary2004@gmail.com
+
